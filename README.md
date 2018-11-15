@@ -32,4 +32,4 @@ mvn clean test
 * First and most important thing we can do is to optimize the code and enhance the framework
 * Functionality to read from Excel file can be improved
 * Reports which are generated can be sent to all stack holders.
-* Should increase more common functionalities to reduce repeatative code.
+* Should increase more common functionality to reduce repeatative code.
