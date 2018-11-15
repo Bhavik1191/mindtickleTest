@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Mindtickle Automation Tests]">
+  <test name="MindTickle(failed)">
+    <classes>
+      <class name="com.mindtickle.course.tests.PublishTheCourse">
+        <methods>
+          <include name="publishCourse"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="beforeSuite"/>
+          <include name="closExntent"/>
+          <include name="openBrowser"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.mindtickle.course.tests.PublishTheCourse -->
+    </classes>
+  </test> <!-- MindTickle(failed) -->
+</suite> <!-- Failed suite [Mindtickle Automation Tests] -->

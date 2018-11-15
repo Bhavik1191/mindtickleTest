@@ -1,0 +1,9 @@
+com\mindtickle\course\pages\HomePage.class
+com\mindtickle\course\pages\AddQuestions.class
+com\mindtickle\course\pages\LoginPage.class
+com\mindtickle\course\tests\PublishTheCourse.class
+com\mindtickle\course\ExtentManager.class
+com\mindtickle\course\UtilsFunctions.class
+com\mindtickle\course\pages\EditCourse.class
+com\mindtickle\course\BaseClass.class
+com\mindtickle\course\pages\CreateNewCourse.class

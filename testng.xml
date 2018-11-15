@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="Mindtickle Automation Tests" parallel="false">
+    <test name="MindTickle" group-by-instances="true">
+        <classes>
+            <class name="com.mindtickle.course.tests.PublishTheCourse">
+            </class>
+        </classes>
+    </test>
+</suite>
