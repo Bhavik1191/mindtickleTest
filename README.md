@@ -1,14 +1,14 @@
-#Complete guid for this Project
+# Complete guid for this Project
 
 
-##Framework and External Libraries used
+## Framework and External Libraries used
 
 * Maven
 * TestNG
 * Page Object Model
 * Extent Reports
 
-##How to run this project
+## How to run this project
 
 * For Data input navigate to Mindtickle > src > main > resources > InputDataSheet.xlsx
   and provide all the relevant inputs for the given column names.
@@ -20,14 +20,14 @@ mvn clean test
 * To run this from any IDE (intellij or Eclipse) navigate to 'PublishTheCode.java' file and right click > Run
 
 
-##How to see report
+## How to see report
 
 * I have integrated Extent report for better analyses and UI
 * Navigate to Mindtickle > target > extent > report
 * This is HTML file and you can see screen shots also attached with all steps
 * Other than
 
-##Future scopes
+## Future scopes
 
 * First and most important thing we can do is to optimize the code and enhance the framework
 * Functionality to read from Excel file can be improved
